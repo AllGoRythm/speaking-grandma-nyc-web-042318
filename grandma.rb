@@ -19,7 +19,7 @@ if words == "I LOVE YOU GRANDMA!"
 #  return "HUH?! SPEAK UP, SONNY!"
 end
 
-if words.upcase == true
+if words.upcase
   return "NO, NOT SINCE 1938!"
 end
 
