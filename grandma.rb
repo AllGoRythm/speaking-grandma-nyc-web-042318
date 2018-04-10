@@ -24,7 +24,7 @@ if words == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 elsif words.upcase
   return "NO, NOT SINCE 1938!"
-elsif words.lowercase
+elsif words.downcase
   return "HUH?! SPEAK UP, SONNY!"
 end
 
