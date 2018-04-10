@@ -21,7 +21,9 @@ end
 
 if words.upcase
   return "NO, NOT SINCE 1938!"
-else
+end
+
+if words.lowercase
   return "HUH?! SPEAK UP, SONNY!"
 end
 
