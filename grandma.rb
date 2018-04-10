@@ -17,10 +17,10 @@ if words == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 elsif
   return "HUH?! SPEAK UP, SONNY!"
-else words.upcase
-  return "NO, NOT SINCE 1938!"
-
 end
 
+if words.upcase
+  return "NO, NOT SINCE 1938!"
+end
 
 end
