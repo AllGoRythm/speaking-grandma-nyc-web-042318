@@ -11,6 +11,4 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-if words
-    puts "HUH?! SPEAK UP, SONNY!"
-end
+def speak_to_grandma(words)
