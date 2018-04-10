@@ -19,9 +19,8 @@ else
   return "HUH?! SPEAK UP, SONNY!"
 end
 
-if words == true 
+if words == true
   return "NO, NOT SINCE 1938!"
-then
   return "NO, NOT SINCE 1938!"
 end
 
