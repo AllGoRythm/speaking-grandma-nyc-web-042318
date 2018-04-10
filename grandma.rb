@@ -19,10 +19,6 @@ else
   return "HUH?! SPEAK UP, SONNY!"
 end
 
-if words.upcase
-  return "NO, NOT SINCE 1938!"
-  return "NO, NOT SINCE 1938!"
-end
 
 
 end
