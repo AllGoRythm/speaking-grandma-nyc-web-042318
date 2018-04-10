@@ -15,8 +15,14 @@ def speak_to_grandma(words)
 
 if words == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-else 
+else
   return "HUH?! SPEAK UP, SONNY!"
+end
+
+if words == true 
+  return "NO, NOT SINCE 1938!"
+then
+  return "NO, NOT SINCE 1938!"
 end
 
 end
