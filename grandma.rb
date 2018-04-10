@@ -25,6 +25,7 @@ if words == "I LOVE YOU GRANDMA!"
 elsif words == words.upcase
   return "NO, NOT SINCE 1938!"
 elsif words == words.downcase
+  return "HUH?! SPEAK UP, SONNY!"
 end
 
 
