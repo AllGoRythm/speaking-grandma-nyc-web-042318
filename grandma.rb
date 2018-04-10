@@ -17,6 +17,8 @@ if words == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 #else
 #  return "HUH?! SPEAK UP, SONNY!"
+else
+  return "HUH?! SPEAK UP, SONNY!"
 end
 
 if words.upcase
