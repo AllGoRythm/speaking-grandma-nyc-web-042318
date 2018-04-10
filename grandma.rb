@@ -17,6 +17,7 @@ if words == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 end
 
-if words == true
+if words == words.lowercase
+  return
 
 end
