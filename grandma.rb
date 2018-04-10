@@ -27,8 +27,5 @@ elsif words.upcase
 
 end
 
-if words.downcase
-  return "HUH?! SPEAK UP, SONNY!"
-end
 
 end
