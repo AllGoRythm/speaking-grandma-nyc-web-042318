@@ -23,7 +23,7 @@ if words.upcase
   return "NO, NOT SINCE 1938!"
 end
 
-if words
+if words == true
   return "HUH?! SPEAK UP, SONNY!"
 end
 
