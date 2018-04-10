@@ -19,7 +19,7 @@ else
   return "HUH?! SPEAK UP, SONNY!"
 end
 
-if words == true
+if words
   return "NO, NOT SINCE 1938!"
 end
 
